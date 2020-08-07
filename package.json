@@ -1,8 +1,8 @@
 {
-  "name": "ionic-boilerplate",
+  "name": "ionic-react-boilerplate",
   "version": "0.0.1",
   "private": true,
-  "description": "ionic boilerplate",
+  "description": "ionic react boilerplate",
   "scripts": {
     "dev": "ionic serve -p 3000",
     "front": "ionic serve -p 3000",
