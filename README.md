@@ -1,4 +1,6 @@
-# 🛠 Set up
+# Ionic5 React Boilerplate
+
+## 🛠 Set up
 
 ```
 npm install -g ionic@latest
@@ -7,7 +9,7 @@ yarn
 yarn dev
 ```
 
-# Reference
+## Reference
 
 react-hooks-mobx : https://github.com/stolenng/react-hooks-mobx
 
